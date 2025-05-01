@@ -1,8 +1,8 @@
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import Layout from "./views/Layout";
-import Home from "./views/Home";
-import Example from "./views/Example";
-import "./App.css";
+import { Route, BrowserRouter as Router, Routes } from 'react-router';
+import Layout from './views/Layout';
+import Home from './views/Home';
+import Example from './views/Example';
+import './App.css';
 
 const App = () => {
   return (
